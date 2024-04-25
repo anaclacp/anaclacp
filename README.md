@@ -3,9 +3,9 @@
 ### Sobre mim
 👩‍💻 Estudante de Engenharia da Computação <br>
 🔍 Estou em busca da minha primeira oportunidade de estágio <br>
-💻 Almejo ser uma programadora de primeira <br>
-📚 Em constante aprendizado, sempre procuro aprender mais! <br>
-🛡️ Futura especialista em Segurança Cibernética
+🚀 Estou empenhada em me tornar uma programadora de alto nível <br>
+💻 Em constante aprendizado, sempre procuro aprender mais! <br>
+👾 Futura especialista em Segurança Cibernética
 
 <!-- <h3 align="left">Entre em contato!</h3>
 
