@@ -2,16 +2,9 @@
 
 <h3 align="left">Entre em contato!</h3>
 
-<div style="background-color: #FAB8D6FF; color: #000000; padding: 20px; border-radius: 10px;">
-  <h3 style="font-family: 'Arial', sans-serif; font-size: 24px; font-weight: bold; margin-bottom: 10px;">Entre em contato!</h3>
-
-  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:anaclaracarnavalli@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ana-clara-pereira-51264a21a/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/anaclacp/)
-</div>
-
-
-
+  [![E-mail](https://img.shields.io/badge/-E-mail-FAB8D6FF?style=for-the-badge&logo=gmail&logoColor=000000&color:FFF)](mailto:anaclaracarnavalli@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FAB8D6FF?style=for-the-badge&logo=linkedin&logoColor=000000&color:FFF)](https://www.linkedin.com/in/ana-clara-pereira-51264a21a/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-FAB8D6FF?style=for-the-badge&logo=instagram&logoColor=000000&color:FFF)](https://www.instagram.com/anaclacp/)
 
 <h3 align="left">My Stack</h3>
 
