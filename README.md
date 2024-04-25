@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FAB8D6&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Ana+Clara+)](https://git.io/typing-svg)
 
 ### Sobre mim
-👩‍💻 Estudante de Engenharia da Computação <br>
+👩🏻‍💻 Estudante de Engenharia da Computação <br>
 🔍 Estou em busca da minha primeira oportunidade de estágio <br>
 🚀 Estou empenhada em me tornar uma programadora de alto nível <br>
 💻 Em constante aprendizado, sempre procuro aprender mais! <br>
