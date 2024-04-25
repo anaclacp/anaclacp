@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FAB8D6&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Ana+Clara+)](https://git.io/typing-svg)
 
-<h3 align="left">Entre em contato!</h3>
+<!-- <h3 align="left">Entre em contato!</h3>
 
   [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF&color:FAB8D6FF)](mailto:anaclaracarnavalli@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FAB8D6FF)]((https://www.linkedin.com/in/ana-clara-pereira-51264a21a/)/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color:FAB8D6FF)](https://www.instagram.com/anaclacp/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color:FAB8D6FF)](https://www.instagram.com/anaclacp/) -->
 
 
 <h3 align="left">My Stack</h3>
