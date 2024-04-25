@@ -2,9 +2,9 @@
 
 <h3 align="left">Entre em contato!</h3>
 
-  [![E-mail](https://img.shields.io/badge/-E-mail-FAB8D6FF?style=for-the-badge&logo=gmail&logoColor=000000&color:FFF)](mailto:anaclaracarnavalli@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FAB8D6FF?style=for-the-badge&logo=linkedin&logoColor=000000&color:FFF)](https://www.linkedin.com/in/ana-clara-pereira-51264a21a/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-FAB8D6FF?style=for-the-badge&logo=instagram&logoColor=000000&color:FFF)](https://www.instagram.com/anaclacp/)
+  [![E-mail](https://img.shields.io/badge/-✉️%20E-mail-FAB8D6FF?style=for-the-badge&logoColor=000000&color:FFF)](mailto:anaclaracarnavalli@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-🔗%20LinkedIn-FAB8D6FF?style=for-the-badge&logoColor=000000&color:FFF)](https://www.linkedin.com/in/ana-clara-pereira-51264a21a/)
+[![Instagram](https://img.shields.io/badge/-📸%20Instagram-FAB8D6FF?style=for-the-badge&logoColor=000000&color:FFF)](https://www.instagram.com/anaclacp/)
 
 <h3 align="left">My Stack</h3>
 
