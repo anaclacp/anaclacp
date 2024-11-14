@@ -2,9 +2,9 @@
 
 ### Sobre mim
 👩🏻‍💻 Estudante de Engenharia da Computação <br>
-🔍 Atualmente estou trabalhando como Dev. Jr <br>
+💻 Atualmente estou trabalhando como Dev. Jr <br>
 🚀 Estou empenhada em me tornar uma programadora de alto nível <br>
-💻 Em constante aprendizado, sempre procuro aprender mais! <br>
+📚 Em constante aprendizado, sempre procuro aprender mais! <br>
 👾 Futura especialista em Segurança Cibernética
 
 <!-- <h3 align="left">Entre em contato!</h3>
