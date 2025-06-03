@@ -5,7 +5,7 @@
 💻 Atualmente estou trabalhando como Dev. Jr <br>
 🚀 Estou empenhada em me tornar uma programadora de alto nível <br>
 📚 Em constante aprendizado, sempre procuro aprender mais! <br>
-👾 Futura especialista em Segurança Cibernética
+🧠 Apaixonada por IA — estudando e construindo soluções inteligentes no dia a dia.
 
 <!-- <h3 align="left">Entre em contato!</h3>
 
