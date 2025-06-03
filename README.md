@@ -37,8 +37,6 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="oracle sql logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next.svg" height="25" alt="oracle sql logo"  />
-  <img width="8" />
 </div>
 
 
