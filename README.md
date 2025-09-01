@@ -2,7 +2,7 @@
 
 ### Sobre mim
 👩🏻‍💻 Estudante de Engenharia da Computação <br>
-💻 Atualmente estou trabalhando como Dev. Jr <br>
+💻 Atualmente estou trabalhando como Dev. Jr na D3 Works!<br>
 🚀 Estou empenhada em me tornar uma programadora de alto nível <br>
 📚 Em constante aprendizado, sempre procuro aprender mais! <br>
 🧠 Apaixonada por IA — estudando e construindo soluções inteligentes no dia a dia.
