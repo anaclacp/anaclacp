@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FAB8D6&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Ana+Clara+)](https://git.io/typing-svg)
 
 ### Sobre mim
-👩🏻‍💻 Último semestre de Engenharia da Computação <br>
-💻 Atualmente estou trabalhando como Desenvolvedora de IA na D3 Works!<br>
+👩🏻‍💻 Engenheira da Computação <br>
+💻 Atualmente trabalhando como Engenheira de IA na D3 Works!<br>
 📚 Em constante aprendizado, sempre procuro aprender mais! <br>
 🧠 Construo soluções de IA no dia a dia, como: Agents, RAG, pipelines ETL e integrações com LLMs
 
