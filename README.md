@@ -84,6 +84,13 @@
 </picture>
 <br><br>
 
+### 🌸 Conheça meu site portfólio!
+<p align="left">
+  <a href="https://portfolio-ana-clara.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio_%F0%9F%9A%A7_em_desenvolvimento-FAB8D6?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ### 🎮 Conheça meu perfil no ArcCode!
 <p align="left">
   <a href="https://arccode.dev/~/xFTUgFINYTYiCIFfX6F5Ctk9JjG3">
@@ -98,5 +105,8 @@
   </a>
   <a href="https://www.linkedin.com/in/ana-clara-pereira-51264a21a/">
     <img src="https://img.shields.io/badge/-LinkedIn-9C27B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/japinhadanerf">
+    <img src="https://img.shields.io/badge/-japinhadanerf-7371FC?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
