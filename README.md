@@ -106,7 +106,4 @@
   <a href="https://www.linkedin.com/in/ana-clara-pereira-51264a21a/">
     <img src="https://img.shields.io/badge/-LinkedIn-9C27B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/japinhadanerf">
-    <img src="https://img.shields.io/badge/-japinhadanerf-7371FC?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </p>
