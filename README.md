@@ -2,7 +2,7 @@
 
 ### Sobre mim
 👩🏻‍💻 Engenheira da Computação <br>
-💻 Atualmente trabalhando como Engenheira de IA na D3 Works!<br>
+💻 Atualmente trabalhando como Desenvolvedora FullStack na Citel Software!<br>
 📚 Em constante aprendizado, sempre procuro aprender mais! <br>
 🧠 Construo soluções de IA no dia a dia, como: Agents, RAG, pipelines ETL e integrações com LLMs
 
