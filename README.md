@@ -87,7 +87,7 @@
 ### 🌸 Conheça meu site portfólio!
 <p align="left">
   <a href="https://portfolio-ana-clara.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio_%F0%9F%9A%A7_em_desenvolvimento-FAB8D6?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Clique_Aqui-FAB8D6?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
