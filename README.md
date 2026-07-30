@@ -2,7 +2,7 @@
 
 ### Sobre mim
 👩🏻‍💻 Engenheira da Computação <br>
-💻 Atualmente trabalhando como Desenvolvedora FullStack na Citel Software!<br>
+💻 Sou desenvolvedora full stack pleno na Citel Software!<br>
 📚 Em constante aprendizado, sempre procuro aprender mais! <br>
 🧠 Construo soluções de IA no dia a dia, como: Agents, RAG, pipelines ETL e integrações com LLMs
 
