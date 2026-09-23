@@ -2,7 +2,7 @@
 
 ### Sobre mim
 👩🏻‍💻 Engenheira da Computação <br>
-💻 Sou desenvolvedora full stack pleno na Citel Software!<br>
+💻 Sou Senior AI Engineer na Accenture Brasil<br>
 📚 Em constante aprendizado, sempre procuro aprender mais! <br>
 🧠 Construo soluções de IA no dia a dia, como: Agents, RAG, pipelines ETL e integrações com LLMs
 
